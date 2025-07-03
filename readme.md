@@ -127,8 +127,6 @@ sudo timeshift --create --comments "Базовая настройка систе
 sudo timeshift --list
 ```
 
-Установка и использование антивирусного сканера (ClamAV)
-
 #### Установка ClamAV
 
 ```bash
